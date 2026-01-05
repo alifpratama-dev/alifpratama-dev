@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Alif Pratama! 📊 Data Enthusiast focused on data cleaning, exploratory data analysis (EDA), and machine learning. 🛠️ Tech Stack: Python, SQL, Dbeaver, Jupyter Notebooks. 🌱 Learning more about Big Data and Deep Learning.
+
+My Portofolio:
+https://drive.google.com/drive/folders/1rVwtuCmIkmqG9Bf6E7zt9tWKpIlGRIVq?usp=sharing
 <!--
 **alifpratama-dev/alifpratama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
