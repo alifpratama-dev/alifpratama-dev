@@ -1,4 +1,6 @@
-<img src="prop4.jpeg" alt="prop4" width="200">
+<div align="center">
+  <img src="prop4.jpeg" alt="prop4" width="200">
+</div>
 
 ## Hi there 👋
 
