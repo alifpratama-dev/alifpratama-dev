@@ -1,3 +1,5 @@
+<img src="prop4.jpeg" alt="prop4" width="200">
+
 ## Hi there 👋
 
 I'm Alif Pratama! 📊 Data Enthusiast focused on data cleaning, exploratory data analysis (EDA), and machine learning. 🛠️ Tech Stack: Python, SQL, Dbeaver, Jupyter Notebooks. 🌱 Learning more about Big Data and Deep Learning.
