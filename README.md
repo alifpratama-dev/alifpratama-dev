@@ -6,6 +6,10 @@ I'm Alif Pratama! 📊 Data Enthusiast focused on data cleaning, exploratory dat
 
 My Portofolio:
 https://drive.google.com/drive/folders/1rVwtuCmIkmqG9Bf6E7zt9tWKpIlGRIVq?usp=sharing
+
+My LinkedIn:
+www.linkedin.com/in/alifpratama-
+
 <!--
 **alifpratama-dev/alifpratama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
